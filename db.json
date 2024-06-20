@@ -40,8 +40,8 @@
     "phone":"123456",
     "password":"123456"
     }
- ],
-  "Post":[
+ ]
+  "posts":[
     {
     "id":1,
     "title":"Retrofit implementation in one video",
