@@ -39,6 +39,14 @@
     "email":"Afnan50@gmail.com",
     "phone":"123456",
     "password":"123456"
+    },
+     {
+    "id":6,
+   "fullName":  "AfnanAboSolyman",
+    "userName":"Afnan",
+    "email":"Afnan50@gmail.com",
+    "phone":"123456",
+    "password":"123456"
     }
  ]
   "posts":[
