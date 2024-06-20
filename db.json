@@ -40,14 +40,6 @@
     "phone":"123456",
     "password":"123456"
     },
-     {
-    "id":6,
-   "fullName":  "aa",
-    "userName":"aa",
-    "email":"aa",
-    "phone":"123456",
-    "password":"123456"
-    }
  ],
   "posts":[
     {
